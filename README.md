@@ -1,1 +1,1 @@
-Image processing algorithm with the OpenCV library in Python to detect lane objects in image and video.
+Image processing algorithm with the OpenCV library in Python to detect lane objects on image and video.
